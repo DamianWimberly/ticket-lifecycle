@@ -14,7 +14,7 @@ This tutorial explores the lifecycle of a ticket in the open-source help desk sy
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> 
 
 <h2>Ticket Lifecycle Stages</h2>
 
@@ -25,42 +25,41 @@ This tutorial explores the lifecycle of a ticket in the open-source help desk sy
 
 <h2>Lifecycle Stages</h2>
 
-🔷 *As an End-User (Karen), Create a Ticket*
+🔷 **As an End-User (Karen), Create a Ticket**
 
 Karen, a branch manager, receives customer reports about the mobile/online banking application being inaccessible. To address this issue, she creates a ticket.
 
-1. On the Support Center [link], select "Open a New Ticket."
-2. Fill out Contact Information.
-3. Select Help Topic: *Business Critical Outage*.
-4. In Ticket Details, briefly describe the issue: 
-   *"My employees report users can't access the online banking portal. Those who can, cannot log in."*
-5. Click "Create Ticket."
+  -  In the Support Center [link], select **"Open a New Ticket"**:
+      - Fill out Contact Information.
+      - Select Help Topic: *Business Critical Outage* 
+     - In Ticket Details, briefly describe the issue: 
+     *"My employees report users can't access the online banking portal. Those who can, cannot log in."*
+      - Click "Create Ticket."
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-🔷 *As a Help Desk Agent (John), Review and Route the Ticket*
+🔷 **As a Help Desk Agent (John), Review and Route the Ticket**
 
 John, the Help Desk Agent, reviews Karen's ticket to assign it to the right team.
-
-1. Login to the osTicket analyst site [link].
-2. Under "Open Tickets," select Karen's ticket.
-3. Review the description and adjust Help Topic if needed.
-4. Set the SLA Plan to *Sev-A (1 hour, 24/7)* due to the critical nature.
-5. Assign the ticket to the *Online Banking* department for resolution.
+  - Login to the osTicket analyst site [link].
+    - Under **"Open Tickets"**, select Karen's ticket.
+    - Review the description and adjust Help Topic if needed.
+    - Set the SLA Plan to *Sev-A (1 hour, 24/7)* due to the critical nature.
+    - Assign the ticket to the *Online Banking* department for resolution.
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-🔷 *As a Help Desk Agent (Jane), Resolve the Ticket*
+🔷 **As a Help Desk Agent (Jane), Resolve the Ticket**
 
 Jane, a member of the Online Banking team, is assigned the ticket by John and works to resolve it.
 
-1. Login to the osTicket analyst site [link].
-2. Assign the ticket to yourself and review the summary.
-3. Propose potential resolutions in the reply section, notifying Karen and John.
-4. Once resolved, update the ticket status from *Open* to *Resolved*.
+  - Login to the osTicket analyst site [link].
+      - Assign the ticket to yourself and review the summary.
+      - Propose potential resolutions in the reply section, notifying Karen and John.
+      - Once resolved, update the ticket status from *Open* to *Resolved*.
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
