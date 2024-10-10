@@ -105,17 +105,3 @@ Jane, a member of the Online Banking team, observes that a ticket has been assig
     <td>Step 4</td>
   </tr>
 </table>
-
-<table>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  <tr>
-    <td>Step 1</td>
-    <td>Step 2</td>
-    <td>Step 3</td>
-    <td>Step 4</td>
-  </tr>
-</table>
