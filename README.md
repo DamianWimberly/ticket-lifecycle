@@ -43,7 +43,7 @@ Karen, a bank branch manager, receives customer reports about the mobile/online 
 </td>
   <tr>
     <td>Support Center</td>
-    <td>Karen Creates Ticket</td>
+    <td>Karen Opens Ticket</td>
   </tr>
 </table>
 
@@ -67,10 +67,10 @@ John, the Help Desk Agent, reviews Karen's ticket to assign it to the right team
     <td><img width="200" alt="Screenshot 2024-10-10 at 10 58 40 AM" src="https://github.com/user-attachments/assets/8c33cae8-9762-4aed-8673-6f4617e6cebe">
 </td>
   <tr>
-    <td>Step 1</td>
-    <td>Step 2</td>
-    <td>Step 4</td>
-    <td>Step 4</td>
+    <td>Help Desk Agent Login</td>
+    <td>Ticket Dashboard</td>
+    <td>Review Karen's Ticket</td>
+    <td>Triage and Assign Ticket</td>
   </tr>
 </table>
 
@@ -98,10 +98,10 @@ Jane, a member of the Online Banking team, observes that a ticket has been assig
 
 </td>
   <tr>
-    <td>Step 1</td>
-    <td>Step 2</td>
-    <td>Step 3</td>
-    <td>Step 4</td>
-    <td>Step 4</td>
+    <td>Login and View the Ticket</td>
+    <td>Claim the Ticket</td>
+    <td>Ticket Thread</td>
+    <td>Work the Ticket</td>
+    <td>Resolve Ticket</td>
   </tr>
 </table>
