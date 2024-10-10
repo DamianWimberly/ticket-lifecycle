@@ -27,23 +27,33 @@ This tutorial explores the lifecycle of a ticket in the open-source help desk sy
 
 🔷 **As an End-User (Karen), Create a Ticket**
 
-Karen, a branch manager, receives customer reports about the mobile/online banking application being inaccessible. To address this issue, she creates a ticket.
+Karen, a bank branch manager, receives customer reports about the mobile/online banking application being inaccessible. To address this issue, she creates a ticket.
 
-  -  In the Support Center [link], select **"Open a New Ticket"**:
+  -  In the Support Center (**http://localhost/osTicket**), select **"Open a New Ticket"**:
       - Fill out Contact Information.
-      - Select Help Topic: *Business Critical Outage* 
+      - Select Help Topic: *Report a Problem* 
      - In Ticket Details, briefly describe the issue: 
      *"My employees report users can't access the online banking portal. Those who can, cannot log in."*
       - Click "Create Ticket."
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<table>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  <tr>
+    <td>Step 1</td>
+    <td>Step 2</td>
+    <td>Step 3</td>
+    <td>Step 4</td>
+  </tr>
+</table>
 
 🔷 **As a Help Desk Agent (John), Review and Route the Ticket**
 
 John, the Help Desk Agent, reviews Karen's ticket to assign it to the right team.
-  - Login to the osTicket analyst site [link].
+  - Login to the osTicket agent site (**http://localhost/osTicket/scp/login.php**)as agent John Doe.
     - Under **"Open Tickets"**, select Karen's ticket.
     - Review the description and adjust Help Topic if needed.
     - Set the SLA Plan to *Sev-A (1 hour, 24/7)* due to the critical nature.
@@ -64,3 +74,17 @@ Jane, a member of the Online Banking team, is assigned the ticket by John and wo
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<table>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  <tr>
+    <td>Step 1</td>
+    <td>Step 2</td>
+    <td>Step 3</td>
+    <td>Step 4</td>
+  </tr>
+</table>
