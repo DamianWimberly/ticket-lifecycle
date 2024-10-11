@@ -25,7 +25,7 @@ This tutorial explores the lifecycle of a ticket in the open-source help desk sy
 
 <h2>Lifecycle Stages</h2>
 
-🔷 **As an End-User (Karen), Create a Ticket**
+🔷 ***As an End-User (Karen), Create a Ticket***
 
 Karen, a bank branch manager, receives customer reports about the mobile/online banking application being inaccessible. To address this issue, she creates a ticket.
 
@@ -47,10 +47,10 @@ Karen, a bank branch manager, receives customer reports about the mobile/online 
   </tr>
 </table>
 
-🔷 **As a Help Desk Agent (John), Review and Route the Ticket**
+🔷 ***As a Help Desk Agent (John), Review and Route the Ticket***
 
 John, the Help Desk Agent, reviews Karen's ticket to assign it to the right team.
-  - Login to the osTicket agent site **http://localhost/osTicket/scp/login.php** as agent John Doe.
+  - Login to the osTicket agent site (**http://localhost/osTicket/scp/login.php**) as agent John Doe.
   - Under **"Open Tickets"**, select Karen's ticket.
       - Review the ticket **Priority**, **Department**, and **SLA Plan** and adjust if needed.
         - Adjut the ticket **Priority** to *High*.
@@ -67,18 +67,18 @@ John, the Help Desk Agent, reviews Karen's ticket to assign it to the right team
     <td><img width="200" alt="Screenshot 2024-10-10 at 10 58 40 AM" src="https://github.com/user-attachments/assets/8c33cae8-9762-4aed-8673-6f4617e6cebe">
 </td>
   <tr>
-    <td>Help Desk Agent Login</td>
+    <td>Login as John</td>
     <td>Ticket Dashboard</td>
     <td>Review Karen's Ticket</td>
     <td>Triage and Assign Ticket</td>
   </tr>
 </table>
 
-🔷 **As a Help Desk Agent (Jane), Resolve the Ticket**
+🔷 ***As a Help Desk Agent (Jane), Resolve the Ticket***
 
 Jane, a member of the Online Banking team, observes that a ticket has been assigned to the Online Banking team by John. Jane will assign the ticket to herself and work to resolve the ticket. 
 
-  - Login to the osTicket agent site **http://localhost/osTicket/scp/login.php** as Jane Doe.
+  - Login to the osTicket agent site (**http://localhost/osTicket/scp/login.php**) as Jane Doe.
       - Assign the ticket to yourself and review the summary.
       - Observe the ticket thread.
       - Propose potential resolutions in the reply section, notifying Karen and John.
@@ -98,7 +98,7 @@ Jane, a member of the Online Banking team, observes that a ticket has been assig
 
 </td>
   <tr>
-    <td>Login and View the Ticket</td>
+    <td>Login as Jane</td>
     <td>Claim the Ticket</td>
     <td>Ticket Thread</td>
     <td>Work the Ticket</td>
