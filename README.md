@@ -43,7 +43,7 @@ Karen, a bank branch manager, receives customer reports about the mobile/online 
 </td>
   <tr>
     <td>Support Center</td>
-    <td>Karen Opens Ticket</td>
+    <td>Karen Opens a Ticket</td>
   </tr>
 </table>
 
@@ -90,7 +90,7 @@ Jane, a member of the Online Banking team, observes that a ticket has been assig
 </td>
     <td><img width="200" alt="Screenshot 2024-10-10 at 11 04 38 AM" src="https://github.com/user-attachments/assets/d3cd684a-2d07-4a4c-b56f-abc91950692c"><img width="200" alt="Screenshot 2024-10-10 at 11 05 23 AM" src="https://github.com/user-attachments/assets/bab6a63d-87b9-4231-ac63-641cf01af5d2"><img width="200" alt="Screenshot 2024-10-10 at 12 22 02 PM" src="https://github.com/user-attachments/assets/04031358-48d0-42c0-8efe-b7cad5b0b8bc">
 </td>
-    <td><img width="400" alt="Screenshot 2024-10-10 at 12 22 16 PM" src="https://github.com/user-attachments/assets/a34107e2-27f8-4faf-94ed-5e7723de3ce1">
+    <td><img width="500" alt="Screenshot 2024-10-10 at 12 22 16 PM" src="https://github.com/user-attachments/assets/a34107e2-27f8-4faf-94ed-5e7723de3ce1">
 </td>
     <td><img width="200" alt="Screenshot 2024-10-10 at 12 29 29 PM" src="https://github.com/user-attachments/assets/48d87ad6-c406-497b-81db-4dcae771ce57"><img width="200" alt="Screenshot 2024-10-10 at 12 34 11 PM" src="https://github.com/user-attachments/assets/aa43886c-35d6-4d9b-8c45-de8dfdf39f35">
 </td>
@@ -102,6 +102,6 @@ Jane, a member of the Online Banking team, observes that a ticket has been assig
     <td>Claim the Ticket</td>
     <td>Ticket Thread</td>
     <td>Work the Ticket</td>
-    <td>Resolve Ticket</td>
+    <td>Resolve the Ticket</td>
   </tr>
 </table>
